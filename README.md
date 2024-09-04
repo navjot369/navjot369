@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navjot Singh</h1>
-<h3 align="center"> I'm a self-taught programmer who loves learning new things. </h3>
+<h3 align="center"> A self-taught programmer who loves learning new things. </h3>
 
 
 # 💫 About Me:
